@@ -1,4 +1,4 @@
-<h1>**LARS' USB SCANNER**</h1>
+<h1>LARS' USB SCANNER</h1>
 
 <h2>INSTALLATION GUIDE:</h2>
 
