@@ -9,7 +9,7 @@
 5. RUN 'cd usbscanner/usbscanner' | *Navigate to the folder*
 6. RUN 'sudo mv usbscannerlars /usr/local/bin' | *Move the bash script to PATH environment*
 7. RUN 'sudo chmod +x /usr/local/bin/usbscannerlars' | *Make the script executable*
-8. RUN 'cd ..' | *Go back to home directory*
+8. RUN 'cd ../..' | *Go back to home directory*
 9. RUN 'sudo usbscannerlars' | *Now you can run the script!*
 
 VERSION 0.0.1
