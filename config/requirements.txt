@@ -1,5 +1,0 @@
-pip
-python
-usbguard
-usbutils
-udisks2
